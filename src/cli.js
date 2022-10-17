@@ -1,13 +1,7 @@
-import readlineSync from 'readline-sync';
-import even from '../brain-even.js';
-import calc from '../brain-calc.js';
-
-const cli = () => {
+const greetings = () => {
   console.log('Welcome to the Brain Games!');
-  const userName = readlineSync.question('May I have your name? ');
-  console.log(`Hello, ${userName}!`);
-  even(userName);
-  calc(userName);
+  // const name = readlineSync.question('May I have your name? ');
+  // return `Hello, ${name}!`;
 };
 
-export default cli;
+export default greetings;

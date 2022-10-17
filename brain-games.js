@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
-import cli from './src/cli.js';
+import brainEven from './games/brain-even.js';
+import brainCalc from './games/brain-calc.js';
 
-cli();
+brainEven();
+brainCalc();

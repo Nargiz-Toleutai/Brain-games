@@ -18,11 +18,14 @@ ______________________________________________________________
 
 Brain-even
 
-https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq
+[![asciicast](https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq.svg)](https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq)
+
+
 
 Brain-calc
 
-https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD
+[![asciicast](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD.svg)](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD)
+
 
 
 

@@ -3,13 +3,13 @@ install:
 brain-games:
 	node bin/brain-games.js
 brain-calc:
-	node src/games/brain-calc.js
+	node bin/brain-calc.js
 brain-even:
-	node  src/games/brain-even.js
+	node  bin/brain-even.js
 brain-gcd:
-	node  src/games/brain-gcd.js
+	node  bin/brain-gcd.js
 brain-progression:
-	node  src/games/brain-progression.js
+	node  bin/brain-progression.js
 publish:
 	npm publish --dry-run
 make lint:

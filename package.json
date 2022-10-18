@@ -6,7 +6,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "Nargiz Toleutai",
     "license": "ISC",
     "devDependencies": {
         "eslint": "^8.25.0",
@@ -26,6 +26,7 @@
         "brain-games": "bin/brain-games.js",
         "brain-even": "bin/games/brain-even.js",
         "brain-calc.js": "bin/games/brain-calc.js",
-        "brain-gcd.js": "bin/games/brain-gcd.js"
+        "brain-gcd.js": "bin/games/brain-gcd.js",
+        "brain-progression": "bin/games/brain-progression.js"
     }
 }

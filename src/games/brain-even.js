@@ -5,7 +5,7 @@ const getRandomNumber = (min, max = 100) => Math.floor(min + Math.random() * (ma
 
 const isEven = (n) => n % 2 === 0;
 
-const description = 'Answer "yes" if given number is even. Otherwise answer "no".';
+const description = 'Answer "yes" if given number is even, otherwise answer "no".';
 
 const generateRound = () => {
   const num = getRandomNumber(0, 50);

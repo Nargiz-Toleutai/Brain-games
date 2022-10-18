@@ -1,32 +1,42 @@
-Brain Games
+# Brain Games
 
-Maintainability:  <a href="https://codeclimate.com/github/Nargiz-Toleutai/Brain-games/maintainability"><img src="https://api.codeclimate.com/v1/badges/9f9fe6e1f0fa5f09b608/maintainability" /></a>
+###### Maintainability:  <a href="https://codeclimate.com/github/Nargiz-Toleutai/Brain-games/maintainability"><img src="https://api.codeclimate.com/v1/badges/9f9fe6e1f0fa5f09b608/maintainability" /></a>
 
-To start the game, enter in the name of the game:
+# Dependencies
 
-1️⃣ brain-even Игра: "Проверка на чётность"
+- Node.js package(latest version).
 
-2️⃣ brain-calc Игра: "Калькулятор"
+# Installing
 
-3️⃣ brain-gcd Игра "НОД"(наибольший общий делитель)
+- git clone https://github.com/glinyany/frontend-project-lvl1.git
+- cd frontend-project-lvl1/
+- make install
+- npm link (you may need sudo)
 
-4️⃣ brain-progression Игра "Арифметическая прогрессия"
+###### To start the game, enter in the name of the game:
+# Game list
 
-5️⃣ brain-prime Игра "Простое ли число?"
+1️⃣ brain-even: "Check a number for evenness"
+
+2️⃣ brain-calc: "Calculate simple expressions"
+
+3️⃣ brain-gcd: "Calculate the greatest common divisor of 2 numbers"
+
+4️⃣ brain-progression: "Calculate and enter missing number from progression"
+
+5️⃣ brain-prime: "Check a number for primality"
 
 ______________________________________________________________
 
-Brain-even
+## Brain-even
 
 [![asciicast](https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq.svg)](https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq)
 
 
-
-Brain-calc
+## Brain-calc
 
 [![asciicast](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD.svg)](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD)
 
+## Brain-gcd
 
-
-
-
+[![asciicast](https://asciinema.org/a/hbiHHSq3zKY4AXCORN1FbZ9Rh.svg)](https://asciinema.org/a/hbiHHSq3zKY4AXCORN1FbZ9Rh)

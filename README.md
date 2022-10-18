@@ -18,28 +18,13 @@ ______________________________________________________________
 
 Brain-even
 
-https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq
+[![asciicast](https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq.svg)](https://asciinema.org/a/6CofO9vrARWfIx9OzsR1sD1tq)
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
-</head>
-<body>
-  <div id="player"></div>
-  <script src="asciinema-player.min.js"></script>
-  <script>
-    AsciinemaPlayer.create(
-      '529506.cast',
-      document.getElementById('player'),
-      { cols: 80, rows: 24 }
-    );
-  </script>
-</body>
-</html>
+
 
 Brain-calc
 
-https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD
+[![asciicast](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD.svg)](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD)
 
 
 

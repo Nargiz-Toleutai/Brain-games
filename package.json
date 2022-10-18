@@ -25,6 +25,7 @@
     "bin": {
         "brain-games": "bin/brain-games.js",
         "brain-even": "bin/games/brain-even.js",
-        "brain-calc.js": "bin/games/brain-calc.js"
+        "brain-calc.js": "bin/games/brain-calc.js",
+        "brain-gcd.js": "bin/games/brain-gcd.js"
     }
 }

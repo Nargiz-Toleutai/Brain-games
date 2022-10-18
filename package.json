@@ -24,9 +24,9 @@
     },
     "bin": {
         "brain-games": "bin/brain-games.js",
-        "brain-even": "bin/games/brain-even.js",
-        "brain-calc.js": "bin/games/brain-calc.js",
-        "brain-gcd.js": "bin/games/brain-gcd.js",
-        "brain-progression": "bin/games/brain-progression.js"
+        "brain-even": "bin/brain-even.js",
+        "brain-calc.js": "bin/brain-calc.js",
+        "brain-gcd.js": "bin/brain-gcd.js",
+        "brain-progression": "bin/brain-progression.js"
     }
 }

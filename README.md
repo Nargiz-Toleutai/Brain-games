@@ -37,3 +37,7 @@ ______________________________________________________________
 ## Brain-calc
 
 [![asciicast](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD.svg)](https://asciinema.org/a/5YuLGXjYv50ckZdgSaOr8PYHD)
+
+## Brain-gcd
+
+[![asciicast](https://asciinema.org/a/hbiHHSq3zKY4AXCORN1FbZ9Rh.svg)](https://asciinema.org/a/hbiHHSq3zKY4AXCORN1FbZ9Rh)

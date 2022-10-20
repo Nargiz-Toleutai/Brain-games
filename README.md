@@ -11,7 +11,7 @@
 
 # Installing
 
-- git clone https://github.com/glinyany/frontend-project-lvl1.git
+- git clone git@github.com:Nargiz-Toleutai/frontend-project-lvl1.git
 - cd frontend-project-lvl1/
 - make install
 - npm link (you may need sudo)
